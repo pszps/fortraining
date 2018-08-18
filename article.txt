@@ -2,3 +2,6 @@ First article.
 First change to first article.
 Happy that remote repository is working.
 Changest I made locally.
+Just a change to use GUI
+Another Change
+But this is it
